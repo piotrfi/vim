@@ -12,6 +12,10 @@ Use your distribution's package manager to download the packages. For example, o
 
     $ sudo pacman -S ack ctags
 
+or
+
+    $ sudo apt install ack universal-ctags
+
 ## Installing Plug-ins
 
 Firstly copy the `vimrc` file to your home directory to replace your current `.vimrc` file: 
