@@ -20,10 +20,7 @@ Firstly copy the `vimrc` file to your home directory to replace your current `.v
 
 Make sure the [Vundle](https://github.com/VundleVim/Vundle.vim) plug-in manager is installed on your system. If it's not, run the following commands:
 
-    $ cd ~/.vim
-    $ mkdir bundle && cd bundle
-    $ git clone https://https://github.com/VundleVim/Vundle.vim Vundle.git
-    $ cd ~
+    $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 Lastly, install the plug-ins by running the following on the command-line:
 
