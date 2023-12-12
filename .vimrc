@@ -3,7 +3,7 @@ set encoding=utf-8
 filetype off
 
 " Set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
+set rtp+=~/.vim/bundle/vundle
 
 " Plugins will be downloaded under the specified directory.
 call vundle#begin('~/.vim/plugged')
